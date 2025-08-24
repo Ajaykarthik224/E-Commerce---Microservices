@@ -1,0 +1,11 @@
+com\example\microservicesproj\order_service\model\OrderLineItems.class
+com\example\microservicesproj\order_service\dto\InventoryResponse.class
+com\example\microservicesproj\order_service\dto\OrderRequest.class
+com\example\microservicesproj\order_service\config\WebClientCongig.class
+com\example\microservicesproj\order_service\OrderServiceApplication.class
+com\example\microservicesproj\order_service\controller\OrderController.class
+com\example\microservicesproj\order_service\service\OrderService.class
+com\example\microservicesproj\order_service\model\Order.class
+com\example\microservicesproj\order_service\repository\OrderRepository.class
+com\example\microservicesproj\order_service\dto\InventoryResponse$InventoryResponseBuilder.class
+com\example\microservicesproj\order_service\dto\OrderLineItemsDto.class

@@ -1,0 +1,10 @@
+E:\Microservices Project\microservices-new\order-service\src\main\java\com\example\microservicesproj\order_service\model\OrderLineItems.java
+E:\Microservices Project\microservices-new\order-service\src\main\java\com\example\microservicesproj\order_service\dto\OrderRequest.java
+E:\Microservices Project\microservices-new\order-service\src\main\java\com\example\microservicesproj\order_service\controller\OrderController.java
+E:\Microservices Project\microservices-new\order-service\src\main\java\com\example\microservicesproj\order_service\dto\OrderLineItemsDto.java
+E:\Microservices Project\microservices-new\order-service\src\main\java\com\example\microservicesproj\order_service\dto\InventoryResponse.java
+E:\Microservices Project\microservices-new\order-service\src\main\java\com\example\microservicesproj\order_service\OrderServiceApplication.java
+E:\Microservices Project\microservices-new\order-service\src\main\java\com\example\microservicesproj\order_service\repository\OrderRepository.java
+E:\Microservices Project\microservices-new\order-service\src\main\java\com\example\microservicesproj\order_service\model\Order.java
+E:\Microservices Project\microservices-new\order-service\src\main\java\com\example\microservicesproj\order_service\service\OrderService.java
+E:\Microservices Project\microservices-new\order-service\src\main\java\com\example\microservicesproj\order_service\config\WebClientCongig.java

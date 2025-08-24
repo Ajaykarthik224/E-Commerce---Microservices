@@ -1,0 +1,7 @@
+com\example\microservicesProject\Inventory_Services\controller\InventoryController.class
+com\example\microservicesProject\Inventory_Services\model\Inventory.class
+com\example\microservicesProject\Inventory_Services\dto\InventoryResponse.class
+com\example\microservicesProject\Inventory_Services\dto\InventoryResponse$InventoryResponseBuilder.class
+com\example\microservicesProject\Inventory_Services\InventoryServicesApplication.class
+com\example\microservicesProject\Inventory_Services\servcie\InventoryService.class
+com\example\microservicesProject\Inventory_Services\repository\InventoryRepository.class
